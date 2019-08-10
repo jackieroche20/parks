@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+}
+.parkpics1{
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.parkpics2{
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+
+}
+.parkpics3{
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+
+}
+img{
+  height: 100px;
+  weight: 100px;
+  border: 5px solid white;
+  border-radius: 3000px;
+}
+.top{
+  text-align: center;
+}
+@media screen and (max-width:500px){
+  .parkpics{
+    display:flex;
+    flex-direction: column;
+  }
+}

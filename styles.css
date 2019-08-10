@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+.greeting{
+  text-align: center;
+  font-size: 50px;
+  color: yellow;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.dog{
+  Height: 300px;
+  Weight: 250px;
+  border: 5px solid black;
+  border-radius: 50%;
+}

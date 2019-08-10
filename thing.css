@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lavender;
+}
+.top{
+  text-align: center;
+  font-size: 30px;
+  background-color: lightpink;
+  border: 5px solid lightblue;
+
+}
+img{
+  Height: 300px;
+  Weight: 410px;
+  border: 5px solid black;
+}
+
+.dogs{
+  margin: 60px
+}
+
+.subtitle{
+  text-align: center;
+  font-size: 30px;
+}
+
+.bodytext{
+  text-align: center;
+  font-size: 20px;
+}
